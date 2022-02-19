@@ -6,8 +6,6 @@
 # permitted in any medium without royalty provided the copyright notice and
 # this notice are preserved.  This file is offered as-is, without any warranty.
 
-# https://www.adobe.com/acrobat/hub/how-to/how-to-compress-pdf-in-linux
-
 usage() {
     echo "usage: shrinkpdf.sh [-h] [-s|-e|-p] [-o outfile] [infile]" >&2
 }
